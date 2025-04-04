@@ -6,10 +6,10 @@ int main() {
 	int x;
 	cin>>x;
 	if(x<=60){
-	    cout<<"YES"<<endl;
+	    printf("YES/n");
 	}
 	else{
-	    cout<<"NO"<<endl;
+	    printf("NO/n");
 	}
 
 }
